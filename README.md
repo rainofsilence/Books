@@ -1,3 +1,7 @@
 # Books
 
- :wave: Welcome to my book repository.
+Welcome to my book repository.
+
+---
+
+👉 [**Book list**](http://rainofsilence.icu/Books/)
