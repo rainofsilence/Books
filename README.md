@@ -1,3 +1,3 @@
 # Books
 
- :wave: Welcome to my book repo.
+ :wave: Welcome to my book repository.
