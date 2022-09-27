@@ -15,6 +15,13 @@
 
   1. [《JavaScript百炼成仙》](https://github.com/rainofsilence/book-repository/blob/master/Program/JavaScript/JavaScript百炼成仙.epub)
 
+- Linux
+  
+  1. [《Linux 101 Hacks》](https://github.com/rainofsilence/Books/blob/master/Program/Linux/linux-101-hacks.pdf)
+  2. [《Linux 101 Hacks(zh_CN)》](https://github.com/rainofsilence/Books/blob/master/Program/Linux/linux-101-hack_zh_cn.pdf)
+  3. [《Sed And Awk 101 Hacks》](https://github.com/rainofsilence/Books/blob/master/Program/Linux/sed-and-awk-101-hacks.pdf)
+  4. [《Vim 101 Hacks》](https://github.com/rainofsilence/Books/blob/master/Program/Linux/vim-101-hacks.pdf)
+
 - Finance
 
   1. [《穷查理宝典》](https://github.com/rainofsilence/book-repository/blob/master/Finance/穷查理宝典.epub)
